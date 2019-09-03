@@ -1,4 +1,4 @@
-# CPCWFP
+# CPCWFP.m
 Bloch Simulation of CP-CWFP with pi-alterlated
 
 To generate Fig4 in:
