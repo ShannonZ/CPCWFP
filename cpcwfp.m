@@ -45,5 +45,8 @@ end
 time = (0:TD)*DW;
 data = M(1,:)+1i*M(2,:);
 plot(time,real(data),'r',time,imag(data),'b',time,M(3,:),'g--')
+xlabel('time'),ylabel('signal')
 
 figure,plot(imag(peak))
+xlabel('center signal between each two pulses')
+ylabel('signal')
